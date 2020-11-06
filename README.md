@@ -2,6 +2,7 @@
 script para cálculos matemáticos do site blaze.com
 
 vocês vão precisar do python instalado
+
 download do python: https://www.python.org/downloads/release/python-378/
 
 e procure isso no link e aperta para baixar e instalar
@@ -10,9 +11,11 @@ e procure isso no link e aperta para baixar e instalar
 64 bits: Windows x86-64 executable installer
 
 vocês vão precisar do visual studio code instalado
+
 download visual studio code: https://code.visualstudio.com/download
 
 e baixar o arquivo calculo blaze.py aqui no site
+
 download do arquivo calculo blaze.py: https://github.com/cleberscr/blazecount/blob/main/calculo%20blaze.zip
 
 como usar:
